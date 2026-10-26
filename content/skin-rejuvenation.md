@@ -1,4 +1,9 @@
 ---
+image: "img/facial-rejuvenation-v1.jpg"
+imageAlt: "AI-generated treatment scene with a silver and blue microneedling pen matching Merav’s device reference"
+imageCaption: "AcuMicro device reference · AI-generated treatment illustration"
+featureLabel: "Facial rejuvenation"
+featureFact: "$400 · One-hour session"
 navTitle: "Facial rejuvenation"
 displayTitle: "Personal care for your skin."
 intro: "Facial rejuvenation and microneedling in Newton, with time to discuss your skin, your comfort, and your goals."
@@ -11,7 +16,12 @@ Good skin care begins with understanding your skin. I want to understand what yo
 
 My cosmetic practice includes microneedling, nanoneedling, and light therapy. We will discuss the differences and agree on an approach before beginning. The facial rejuvenation service described here uses skin-treatment devices, including microneedling, rather than individual acupuncture needles.
 
-<div class="price-panel"><p class="eyebrow">FACIAL REJUVENATION</p><p class="price-amount">$400 <span>per one-hour session</span></p><p>A flat session fee. We will review your treatment plan before you book.</p></div>
+
+## The AcuMicro device I use
+
+I use an AcuMicro microneedling pen for facial rejuvenation. We choose between microneedling and the more superficial nanoneedling approach according to your skin and the treatment plan. I explain the device, the proposed treatment, and what you can expect before we begin.
+
+You can explore the equipment at [AcuMicro](https://acumicro.com/).
 
 ## Choosing an approach
 

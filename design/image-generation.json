@@ -1,0 +1,16 @@
+{
+  "generator": "Built-in image_gen",
+  "assets": [
+    {
+      "file": "static/img/facial-rejuvenation-v1.jpg",
+      "type": "AI-generated illustrative treatment scene",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide editorial website photograph for facial rejuvenation at a Japanese acupuncture practice. Input image 1 is a reference for the EXACT physical microneedling device only, not a scene to copy. Create an entirely new professionally photographed treatment scene, landscape 3:2 composition: a different adult woman age around 45 reclining comfortably on ivory linen with eyes gently closed, neutral white headband, professional wearing powder-blue nitrile gloves holding the SAME silver cylindrical AcuMicro pen as reference against the upper forehead. Preserve the device faithfully: long brushed-silver aluminum barrel, narrow machined rings, bright metallic turquoise-blue knurled adjustment collar with tiny white scale markings, short tapered silver lower section, transparent cylindrical disposable cartridge tip. No new buttons, extra display, black grip, or different product silhouette. Clinician's face and identity out of frame; clinician no jewelry on hands or wrists. Different camera angle from reference: more horizontal eye-level three-quarter view, patient's head on right, treatment hand centered, soft-focus sage-green and warm white treatment-room setting on left. Soft daylight, restrained ivory and sage tones, true skin texture, calm professional atmosphere. Realistic anatomy, two correct gloved hands only. No text overlays, logos added, no watermark, no blood. This is illustrative imagery, not a photograph of the actual practitioner or clinic.",
+      "reference": "User-supplied device reference; original reference photograph is not distributed with the website."
+    },
+    {
+      "file": "static/img/palpation-care-v1.jpg",
+      "type": "AI-generated illustrative ambiance scene",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide editorial ambiance photograph for a gentle Japanese acupuncture website. Create an original horizontal 3:2 photograph of an adult patient's relaxed forearm resting on clean ivory cotton on a treatment table. A practitioner's two natural anatomically correct bare hands lightly palpate the wrist and inner forearm; short clean nails, no jewelry. Only forearm and hands visible, no faces or identifying features. No inserted needles or medical devices, no procedural claims. Shallow depth of field, soft daylight from a window on left, softly blurred sage-green botanical detail in background, warm ivory linen and restrained wood tones. Calm, attentive and professional, real skin texture, no beauty-filter plastic skin, no text, no logos, no watermark. A neutral illustrative scene, not a photograph of the actual practitioner or actual clinic."
+    }
+  ]
+}

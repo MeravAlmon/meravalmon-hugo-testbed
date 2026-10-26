@@ -1,1 +1,23 @@
-{{ define "main" }}<section class="page-heading"><div class="wrap"><a class="eyebrow breadcrumb" href="{{ "" | relURL }}">HOME <span aria-hidden="true">/</span> {{ .Params.navTitle | default .Title }}</a><h1>{{ .Params.displayTitle | default .Title }}</h1>{{ with .Params.intro }}<p>{{ . }}</p>{{ end }}</div></section><div class="wrap article-layout"><article class="prose">{{ .Content }}</article><aside class="appointment-card"><p class="eyebrow">CARE THAT STARTS WITH YOU</p><h2>Questions before<br>you book?</h2><p>Call or email me to discuss treatment or request an appointment.</p><a class="button" href="{{ "#contact" | relURL }}">Request an appointment <span aria-hidden="true">↗</span></a><a class="phone-link" href="tel:+18573641747">857-364-1747</a><hr><p>1647 Washington St<br>Newton, MA 02465</p></aside></div>{{ partial "contact.html" . }}{{ end }}
+{{ define "main" }}
+<section class="page-heading{{ with .Params.image }} page-heading-visual{{ end }}">
+  <div class="wrap page-hero-grid">
+    <div class="page-hero-copy">
+      <a class="eyebrow breadcrumb" href="{{ "" | relURL }}">HOME <span aria-hidden="true">/</span> {{ .Params.navTitle | default .Title }}</a>
+      <h1>{{ .Params.displayTitle | default .Title }}</h1>
+      {{ with .Params.intro }}<p>{{ . }}</p>{{ end }}
+      <a class="button" href="{{ "#contact" | relURL }}">Request an appointment <span aria-hidden="true">↗</span></a>
+      {{ with .Params.featureFact }}<div class="hero-fact"><span class="fact-line" aria-hidden="true"></span>{{ . }}</div>{{ end }}
+    </div>
+    {{ with .Params.image }}<figure class="page-hero-photo{{ if eq $.Path "/about" }} portrait-photo{{ end }}">
+      <img src="{{ . | relURL }}" alt="{{ $.Params.imageAlt }}" width="1440" height="960" fetchpriority="high">
+      {{ with $.Params.imageCaption }}<figcaption>{{ . }}</figcaption>{{ end }}
+    </figure>{{ end }}
+  </div>
+</section>
+{{ if eq .Path "/skin-rejuvenation" }}{{ partial "facial-overview.html" . }}{{ end }}
+<div class="wrap article-layout">
+  <article class="prose">{{ .Content }}</article>
+  <aside class="appointment-card"><p class="eyebrow">CARE THAT STARTS WITH YOU</p><h2>Questions before<br>you book?</h2><p>Call or email me to discuss treatment or request an appointment.</p><a class="button" href="{{ "#contact" | relURL }}">Request an appointment <span aria-hidden="true">↗</span></a><a class="phone-link" href="tel:+18573641747">857-364-1747</a><hr><p>1647 Washington St<br>Newton, MA 02465</p><a class="text-link" href="#clinic-map">Find the clinic <span aria-hidden="true">↓</span></a></aside>
+</div>
+{{ partial "contact.html" . }}
+{{ end }}

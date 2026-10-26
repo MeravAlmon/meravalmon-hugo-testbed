@@ -1,4 +1,9 @@
 ---
+image: "img/merav.jpg"
+imageAlt: "Merav Almon-Feigin at Newton Acupuncture Clinic"
+imageCaption: "Merav Almon-Feigin"
+featureLabel: "Meet your practitioner"
+featureFact: "Over 15 years of experience"
 navTitle: "Meet Merav"
 displayTitle: "An attentive, hands-on approach."
 intro: "I’m Merav Almon-Feigin. I practice Japanese acupuncture at Newton Acupuncture Clinic in West Newton, Massachusetts."

@@ -1,4 +1,9 @@
 ---
+image: "img/palpation-care-v1.jpg"
+imageAlt: "Illustrative image of gentle wrist and forearm palpation"
+imageCaption: "An attentive approach, guided by touch. · AI-generated illustration"
+featureLabel: "A hands-on approach"
+featureFact: "Palpation-based Japanese acupuncture"
 navTitle: "Acupuncture"
 displayTitle: "Gentle Japanese acupuncture."
 intro: "A hands-on approach that combines careful listening, assessment through touch, and treatment tailored to your response."

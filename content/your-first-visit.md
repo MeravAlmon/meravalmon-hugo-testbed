@@ -1,4 +1,9 @@
 ---
+image: "img/clinic.jpg"
+imageAlt: "The treatment room at Newton Acupuncture Clinic"
+imageCaption: "The treatment room at Newton Acupuncture Clinic"
+featureLabel: "Your visit"
+featureFact: "One hour · West Newton"
 navTitle: "Your first visit"
 displayTitle: "Know what to expect."
 intro: "How to prepare, where to park, and how to request an appointment at Newton Acupuncture Clinic."
