@@ -35,7 +35,7 @@ The source lives in Git; generated `public/` and Hugo caches are ignored. After 
 - Service and first-visit copy: `content/*.md`.
 - Homepage sections: `themes/merav/layouts/index.html`.
 - Shared contact details: `themes/merav/layouts/partials/contact.html` and `footer.html`.
-- Colors, typography, and responsive layouts: `themes/merav/static/css/merav.css`.
+- Colors, typography, and responsive layouts: `themes/merav/assets/css/merav.css`.
 - Images: `static/img/`; intake PDF: `static/files/`.
 - No Node packages, external fonts, JavaScript, or theme downloads are required.
 
@@ -52,3 +52,5 @@ The original migration project was not modified. This redesigned copy is indepen
 Page-heading images are configured with `image`, `imageAlt`, and `imageCaption` in each content file. The homepage service cards use the same image set. The portrait and clinic image are original practice assets. The two generated treatment illustrations are stored in `static/img/facial-rejuvenation-v1.jpg` and `static/img/palpation-care-v1.jpg`; their prompts and provenance are in `design/image-generation.json`. The device scene uses the supplied silver-and-blue AcuMicro reference and is labeled as illustrative, rather than presented as a photograph of an actual patient or practitioner.
 
 The shared clinic map is in `themes/merav/layouts/partials/clinic-map.html`. It uses a lazy-loaded Google Maps embed centered on 1647 Washington Street, Newton, and includes a directions link as an alternative. New photographs are compressed JPEGs; no external photo URLs are needed.
+
+The stylesheet is fingerprinted by Hugo so that new deployments load the matching CSS even when browsers have cached an earlier version.
