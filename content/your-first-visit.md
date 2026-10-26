@@ -30,7 +30,7 @@ Let me know if you are nervous about needles, have had a difficult treatment exp
 | --- | ---: |
 | Initial acupuncture visit | $125 |
 | Follow-up acupuncture visit | $85 |
-| Cosmetic acupuncture / skin rejuvenation session | $400 |
+| Facial rejuvenation session | $400 |
 
 [Read about cosmetic appointments]({{< asset-url "skin-rejuvenation/" >}}).
 
@@ -48,9 +48,15 @@ The clinic is in a Tudor-style house in West Newton, convenient to the Massachus
 
 ## Scheduling and practical questions
 
-Call [857-364-1747](tel:+18573641747) or email [info@meravalmon.com](mailto:info@meravalmon.com) to request an appointment. We will agree on a date and time directly; this website does not confirm bookings automatically.
+Call [857-364-1747](tel:+18573641747) or email [info@meravalmon.com](mailto:info@meravalmon.com) to request an appointment. Appointments are one hour. We will agree on a date and time directly; this website does not confirm bookings automatically.
 
-When scheduling, please ask about appointment length, accepted payment methods, insurance arrangements, and the cancellation policy. If you need to change an appointment, contact me as soon as you can.
+### Payment
+
+I accept cash, checks, credit cards, Venmo, and Zelle.
+
+### Cancellations and rescheduling
+
+Please give at least 24 hours’ notice if you need to cancel or reschedule your appointment. Call or email me to make the change.
 
 ## Questions people often ask
 

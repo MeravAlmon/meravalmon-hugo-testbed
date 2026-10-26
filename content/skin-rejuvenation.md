@@ -1,17 +1,17 @@
 ---
-navTitle: "Cosmetic acupuncture"
+navTitle: "Facial rejuvenation"
 displayTitle: "Personal care for your skin."
-intro: "Cosmetic acupuncture and skin rejuvenation in Newton, with time to discuss your skin, your comfort, and your goals."
-title: "Cosmetic Acupuncture & Skin Rejuvenation in Newton, MA"
-description: "Explore Merav’s cosmetic skin-care approach, including microneedling, nanoneedling, and light therapy. Cosmetic sessions are $400."
+intro: "Facial rejuvenation and microneedling in Newton, with time to discuss your skin, your comfort, and your goals."
+title: "Facial Rejuvenation & Microneedling in Newton, MA"
+description: "Explore Merav’s cosmetic skin-care approach, including microneedling, nanoneedling, and light therapy. One-hour facial rejuvenation sessions are $400."
 layout: "single"
 ---
 
 Good skin care begins with understanding your skin. I want to understand what you notice about your skin, what matters to you, and how treatment could fit into your routine.
 
-My cosmetic practice includes microneedling, nanoneedling, and light therapy. We will discuss the differences and agree on an approach before beginning. Microneedling is a device-based skin treatment and is different from acupuncture with individual needles.
+My cosmetic practice includes microneedling, nanoneedling, and light therapy. We will discuss the differences and agree on an approach before beginning. The facial rejuvenation service described here uses skin-treatment devices, including microneedling, rather than individual acupuncture needles.
 
-<div class="price-panel"><p class="eyebrow">COSMETIC ACUPUNCTURE & SKIN REJUVENATION</p><p class="price-amount">$400 <span>per session</span></p><p>A flat session fee. We will review your treatment plan before you book.</p></div>
+<div class="price-panel"><p class="eyebrow">FACIAL REJUVENATION</p><p class="price-amount">$400 <span>per one-hour session</span></p><p>A flat session fee. We will review your treatment plan before you book.</p></div>
 
 ## Choosing an approach
 
@@ -35,7 +35,7 @@ Light therapy and hydrating skin care may form part of your plan. I review the p
 2. **A plan you understand.** I explain the approach, what it may feel like, and what recovery could involve. When appropriate, topical numbing is discussed before microneedling.
 3. **Treatment and aftercare.** We go over how to care for your skin, which products or activities to avoid, and when to get in touch with questions.
 
-Please confirm the appointment length when scheduling so you can allow enough time for the full visit.
+Your appointment is one hour, allowing time for assessment, treatment, and aftercare guidance.
 
 ## Results and recovery
 
