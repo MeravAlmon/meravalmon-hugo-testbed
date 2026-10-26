@@ -1,104 +1,64 @@
 ---
-navTitle: "Acupuncture services"
-displayTitle: "Gentle care, tailored to you."
-intro: "Japanese acupuncture and complementary therapies, with an individualized approach."
-title: "Acupuncture Services & Pain Relief | Newton, MA"
-description: "Acupuncture, electro-acupuncture, kinesiology taping, cold laser therapy and more."
+navTitle: "Acupuncture"
+displayTitle: "Gentle Japanese acupuncture."
+intro: "A hands-on approach that combines careful listening, assessment through touch, and treatment tailored to your response."
+title: "Japanese Acupuncture in Newton, MA"
+description: "Learn about Merav’s palpation-based Japanese acupuncture, complementary therapies, and Tera 3 Onnetsu warming treatments in Newton, MA."
 layout: "single"
 ---
 
-We offer a variety of therapeutic modalities to support you in achieving your wellness goals, including:
+Your symptoms matter, but they are only part of the conversation. I also want to understand how you sleep, move, and feel throughout the day, what you have already tried, and what you hope to change.
 
-- Acupuncture (with options for ear and scalp acupuncture)
-- Electro-Acupuncture
-- Kinesiology Taping
-- Cold Laser Therapy
-- Micro-Needling
-- Nano-Needling
+I practice palpation-based Japanese acupuncture. My training with my mentor, David Euler, has shaped the way I listen, assess, and adapt treatment to each person.
 
-## Commonly Treated Conditions
+## What does palpation-based mean?
 
-### Neurological and Musculoskeletal Disorders
+Palpation means examining through touch. I gently check areas of your body for tenderness and other responses, then use what I find to guide point selection. During treatment, I revisit those areas to see how they respond and make adjustments.
 
-- Headaches and Migraines
-- Trigeminal Neuralgia (including TMJ issues)
-- Facial Palsy (early stage, within six months)
-- Post-Stroke Paresis
-- Peripheral Neuropathies
-- Sequelae of Poliomyelitis (early stage, within six months)
-- Meniere's Disease
-- Neurogenic Bladder Dysfunction
-- Nocturnal Enuresis (bedwetting)
-- Intercostal Neuralgia
-- Cervicobrachial Syndrome
+This gives us something concrete to discuss alongside your own experience. A change in tenderness can help guide a session; it does not, on its own, establish a medical diagnosis or promise a lasting result.
 
-### Joint and Muscle Pain
+## What treatment feels like
 
-- Frozen Shoulder
-- Tennis Elbow
-- Sciatica
-- Lower Back Pain
-- Osteoarthritis
+The style I use emphasizes fine needles and gentle, often shallow insertion. Sensations vary: you may notice a brief prick, pressure, or very little sensation. You can tell me at any point if something is uncomfortable.
 
-### Mental & Emotional Health
+If you are nervous about needles, say so when we talk. We can discuss your concerns and whether non-needle options are appropriate for you.
 
-- Anxiety
-- Depression
-- Stress
-- Insomnia
+## What brings people to acupuncture?
 
-### Women's Health
+You might be looking for help managing persistent back, neck, or joint pain, or exploring options for headaches and migraines. You may also want to discuss concerns such as stress, sleep, digestion, or changes around menopause.
 
-- Fertility Issues
-- Menopause
-- PMS (Premenstrual Syndrome)
+We will talk about your particular symptoms and whether acupuncture makes sense as part of your care. Research is stronger for some pain conditions than for many other uses; an individual assessment matters more than a long list of conditions.
 
-### Upper Respiratory Conditions
+Acupuncture can complement medical care. It should not delay evaluation of new or worsening symptoms or replace prescribed treatment. For an independent overview, see the [National Institutes of Health’s information on acupuncture](https://www.nccih.nih.gov/health/acupuncture-effectiveness-and-safety).
 
-- Acute Sinusitis
-- Acute Rhinitis
-- Common Cold
-- Acute Tonsillitis
+## Other therapies I may use
 
-### Respiratory Disorders
+I choose complementary techniques according to your needs and discuss them with you before using them.
 
-- Acute Bronchitis
-- Bronchial Asthma (particularly effective in children and those without complicating factors)
+### Tera 3 Onnetsu warming therapy
 
-### Eye Disorders
+I also use the Tera 3 Onnetsu device, which combines applied warmth with far-infrared technology. It provides a smoke-free warming treatment that may be incorporated into an acupuncture session.
 
-- Acute Conjunctivitis
-- Central Retinitis
-- Myopia (especially in children)
-- Cataracts (without complications)
+We will discuss your comfort with heat and any health conditions or changes in sensation that could affect whether warming is suitable. Tell me promptly if the warmth feels too strong. This is an optional part of care, chosen according to your needs and preferences.
 
-### Oral Health Conditions
+### Low-level laser therapy
 
-- Toothache and post-extraction pain
-- Gingivitis
-- Acute and Chronic Pharyngitis
+Sometimes called cold laser, this is a non-needle technique using low-level light. We can discuss whether it has a role in your treatment plan.
 
-### Gastrointestinal Disorders
+### Electro-acupuncture
 
-- Esophageal and Cardiac Spasms
-- Hiccups
-- Gastroptosis
-- Acute and Chronic Gastritis
-- Gastric Hyperacidity
-- Chronic Duodenal Ulcers (pain relief)
-- Acute Duodenal Ulcers (without complications)
-- Acute and Chronic Colitis
-- Acute Bacillary Dysentery
-- Constipation
-- Diarrhea
-- Paralytic Ileus
-- Irritable Bowel Syndrome (IBS)
+A small electrical current can be applied through acupuncture needles. I explain the sensation and review whether it is appropriate for you before proceeding.
 
-## Treatment Modalities
+### Kinesiology taping
 
-I use gentle, effective therapies to address a wide range of conditions, including:
+Flexible tape may be applied to selected areas as an addition to your session. Placement is guided by assessment and your response.
 
-- Palpation-Based Acupuncture
-- Low-Level Laser Therapy
-- Electro-Acupuncture
-- Magnet Therapy
+### Ear and scalp acupuncture
+
+My training also includes auriculotherapy and scalp acupuncture, which give me additional ways to individualize treatment.
+
+## A plan we review together
+
+At your first visit, we discuss your goals and agree on a starting plan. Follow-up visits are an opportunity to review what has changed, what has not, and whether the approach needs adjusting. I do not promise a fixed number of sessions or a particular outcome.
+
+[See first-visit information and fees]({{< asset-url "your-first-visit/" >}}), or [contact me to request an appointment]({{< asset-url "#contact" >}}).

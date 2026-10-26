@@ -39,10 +39,10 @@ The source lives in Git; generated `public/` and Hugo caches are ignored. After 
 - Images: `static/img/`; intake PDF: `static/files/`.
 - No Node packages, external fonts, JavaScript, or theme downloads are required.
 
-The homepage is rendered by the theme’s homepage template; its original migrated Markdown is retained in `content/_index.md` for reference. All three internal page URLs and the intake form URL are preserved. Appointment buttons lead to the contact section with telephone and email links.
+The homepage is rendered by the theme’s homepage template; its search metadata is in `content/_index.md`. All three internal page URLs and the intake form URL are preserved. Appointment buttons lead to the contact section with telephone and email links.
 
 ## Review before publishing
 
-The supplied skin-care copy contains both a $350 introductory price and a $500 session price, as well as a $1,500 package. These figures are preserved from the migration and should be reconciled by the practice. Confirm that first-visit fees, address, contact information, treatment descriptions, and the 2024 intake form remain current.
+Cosmetic sessions are $400 per the practice owner, with no discounts or packages. Acupuncture fees remain $125 initial / $85 follow-up from the supplied migration. Appointment lengths, payment and insurance arrangements, cancellation policy, detailed access arrangements, and precise cosmetic-session inclusions still need owner confirmation; the website directs patients to ask rather than inventing these details. Confirm professional credentials before adding license designations or numbers. The clinic address and parking details are based on the shared clinic’s public information. The 2024 intake form is retained.
 
 The original migration project was not modified. This redesigned copy is independent and does not need the Blowfish submodule.

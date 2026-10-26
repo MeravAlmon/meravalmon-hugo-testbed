@@ -1,56 +1,54 @@
 ---
-navTitle: "Skin rejuvenation"
-displayTitle: "Thoughtful care for your skin."
-intro: "Explore cosmetic acupuncture, microneedling, and a personal approach to skin rejuvenation."
-title: "Cosmetic Acupuncture & Microneedling | Newton, MA"
+navTitle: "Cosmetic acupuncture"
+displayTitle: "Personal care for your skin."
+intro: "Cosmetic acupuncture and skin rejuvenation in Newton, with time to discuss your skin, your comfort, and your goals."
+title: "Cosmetic Acupuncture & Skin Rejuvenation in Newton, MA"
+description: "Explore Merav’s cosmetic skin-care approach, including microneedling, nanoneedling, and light therapy. Cosmetic sessions are $400."
 layout: "single"
 ---
 
-I'm excited to invite you to experience a new and innovative treatment now available at Newton Acupuncture Clinic: Microneedling with specialized serums!
+Good skin care begins with understanding your skin. I want to understand what you notice about your skin, what matters to you, and how treatment could fit into your routine.
 
-This rejuvenating procedure is designed to be done once a month and includes the application of pure hyaluronic acid, a unique Apple Stem-Cell serum, and a cooling SnailGel mask for soothing and hydration.
+My cosmetic practice includes microneedling, nanoneedling, and light therapy. We will discuss the differences and agree on an approach before beginning. Microneedling is a device-based skin treatment and is different from acupuncture with individual needles.
 
-As an introductory offer, the procedure is priced at $350 (regularly $450-$650, depending on add-ons). I will be offering this treatment monthly, either as an enhancement to your acupuncture session or as a stand-alone service.
+<div class="price-panel"><p class="eyebrow">COSMETIC ACUPUNCTURE & SKIN REJUVENATION</p><p class="price-amount">$400 <span>per session</span></p><p>A flat session fee. We will review your treatment plan before you book.</p></div>
 
-Due to limited availability, I recommend reserving your spot early. Once you sign up, I will send you the upcoming availability for the next few months.
+## Choosing an approach
 
-## About the Treatment
+### Microneedling
 
-Microneedling, also known as percutaneous collagen induction therapy, is a minimally invasive cosmetic treatment designed to stimulate the skin's natural healing process. Using a handheld device equipped with fine, sterile needles that move rapidly across the skin, the procedure creates tiny, controlled micro-injuries. This triggers the body's production of collagen and elastin, key proteins that help maintain the skin's firmness and smooth texture.
+Microneedling uses a device with fine needles to create controlled punctures in the skin. It may be considered for concerns such as the appearance of fine lines and acne scars, depending on the device, your skin, and your medical history.
 
-For optimal results, I incorporate 100% pure hyaluronic acid during the treatment to deeply hydrate and rejuvenate the skin. This powerful ingredient helps the skin retain moisture, promoting a plump and glowing complexion. Additionally, I use a premium apple stem-cell serum, specifically formulated to boost cellular regeneration, repair the skin's deeper layers, and reduce oxidative damage, all of which contribute to a visibly youthful appearance.
+Allow time for recovery after the procedure. We will discuss suitability, expected benefits, and risks before you decide.
 
-You may be familiar with apple stem cells, particularly those from the Uttwiller Spatlauber apple, known for its regenerative properties. Scientifically proven to stimulate the skin's epidermal cells, these stem cells promote self-renewal at a rate similar to early youth, helping to prevent wrinkles, sagging, and dullness. The apple stem-cell formula I use is one of the most potent available, combined with other natural ingredients for maximum effect.
+### Nanoneedling
 
-The treatment typically takes 35-40 minutes and is completed in three stages:
+Nanoneedling is a more superficial skin-care technique than microneedling. We can discuss how the treatment differs, what it involves, and whether it fits your goals.
 
-1. **Stage 1:** Application of a hydrating numbing cream to ensure comfort during the procedure (15-20 minutes). This is also when we can begin the first part of your acupuncture treatment.
-2. **Stage 2:** Microneedling with pure hyaluronic acid (15 minutes), while we continue with the second stage of acupuncture.
-3. **Stage 3:** Application of the apple stem-cell serum, followed by a cooling and hydrating face mask to lock in moisture and soothe the skin.
+### Light therapy and topical care
 
-Please note, acupuncture is billed separately from the microneedling procedure, and you have the option to skip the acupuncture if you prefer.
+Light therapy and hydrating skin care may form part of your plan. I review the proposed treatments and products with you, including sensitivities and allergies. We choose topical care with your skin history and treatment in mind.
 
-The introductory price for microneedling is $350 (regularly $450-$650 depending on add-ons), with an additional $50 for specialized serums.
+## What to expect
 
-### Available Specialized Serums
+1. **A conversation about your skin.** We review your goals, skin history, medications, current products, and previous procedures.
+2. **A plan you understand.** I explain the approach, what it may feel like, and what recovery could involve. When appropriate, topical numbing is discussed before microneedling.
+3. **Treatment and aftercare.** We go over how to care for your skin, which products or activities to avoid, and when to get in touch with questions.
 
-- **Lumos Brighten®** (Zao Lei): Targets melanin pigmentation, reducing age spots and melasma for a more even skin tone.
-- **Collagen XG+®** (Xiāng Gū): A shiitake mushroom extract that naturally stimulates collagen and elastin production.
-- **Oculus Infraorbital®** (Hai Zao): Seaweed extract from the coast of Spain, perfect for targeting the delicate under-eye area.
-- **Acne Treatment Serum** (Elastin FL+): Designed for oily or acne-prone skin, this serum promotes elastin production and helps balance the skin's oil levels.
+Please confirm the appointment length when scheduling so you can allow enough time for the full visit.
 
-This treatment is a powerful option for those looking to rejuvenate and revitalize their skin. I look forward to helping you achieve your skin goals!
+## Results and recovery
 
-## Pricing
+Results vary, and changes may take time. More than one visit may be needed; any improvement may require maintenance. We will review your progress and discuss follow-up care together.
 
-### Skin Care
+Microneedling can cause redness, tenderness, peeling, bruising, or bleeding. Less common complications include infection and pigment changes. Recovery depends on the treatment and your skin, so plan around the aftercare advice you receive rather than assuming there will be no downtime.
 
-**Light Therapy, Microneedling, Hyaluronic Acid, & Apple or Orange Stem-Cell** — $500.00 (one session per month)
+## Is it suitable for me?
 
-**Additional Specialized Serum** — $50.00
+Tell me about skin conditions, a history of cold sores, problems with healing, medications that affect bleeding, and allergies to skin products or numbing agents. These details help us decide whether to proceed, adapt the plan, or seek advice from your medical provider.
 
-### Package of 4 Weekly Treatments
+For an independent explanation of benefits, limitations, and risks, see the [FDA’s patient guide to microneedling](https://www.fda.gov/consumers/consumer-updates/microneedling-devices-getting-point-benefits-risks-and-safety).
 
-**$1500.00** — 1 microneedling, 3 nanoneedling, 4 light therapies, all with hyaluronic acid and stem-cell serum
+## Ready to talk?
 
-**Additional Specialized Serum** — $150.00 (weekly serum application)
+[Request a cosmetic appointment]({{< asset-url "#contact" >}}) by phone or email. Tell me what you would like to discuss, and we can work out the next step together.
