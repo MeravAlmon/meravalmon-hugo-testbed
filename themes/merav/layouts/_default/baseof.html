@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ site.Title }}</title>
+<meta name="description" content="{{ .Description | default site.Params.description }}">
+{{ if site.Params.noindex }}<meta name="robots" content="noindex, nofollow">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}"><link rel="icon" href="{{ "favicon-32x32.png" | relURL }}">
+<link rel="stylesheet" href="{{ "css/merav.css" | relURL }}">
+<meta property="og:title" content="{{ .Title }}"><meta property="og:description" content="{{ .Description | default site.Params.description }}"><meta property="og:type" content="website"><meta property="og:image" content="{{ "img/bamboo.jpg" | absURL }}">
+</head><body><a class="skip" href="#main">Skip to content</a>
+{{ partial "header.html" . }}<main id="main">{{ block "main" . }}{{ end }}</main>{{ partial "footer.html" . }}</body></html>

@@ -1,0 +1,12 @@
+baseURL = 'https://meravalmon.com/'
+title = 'Merav Almon-Feigin'
+theme = 'merav'
+defaultContentLanguage = 'en'
+enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term', 'RSS']
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.goldmark.parser.attribute]
+  block = true
+[params]
+  description = 'Gentle Japanese acupuncture and holistic skin rejuvenation in Newton, Massachusetts.'

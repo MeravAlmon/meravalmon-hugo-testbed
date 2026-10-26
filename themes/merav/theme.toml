@@ -1,0 +1,4 @@
+name = 'Merav'
+license = 'MIT'
+description = 'A calm, botanical Hugo theme for Merav Almon-Feigin’s acupuncture practice.'
+min_version = '0.120.0'

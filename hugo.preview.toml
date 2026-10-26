@@ -1,0 +1,3 @@
+# Added to the main config only for the GitHub Pages testbed.
+[params]
+  noindex = true

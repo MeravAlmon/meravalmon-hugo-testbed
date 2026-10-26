@@ -1,0 +1,54 @@
+name: Deploy Hugo testbed to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+env:
+  HUGO_VERSION: 0.168.0
+  TZ: America/New_York
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v7
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v6
+      - name: Install Hugo
+        run: |
+          curl --fail --silent --show-error --location "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz" --output "${RUNNER_TEMP}/hugo.tar.gz"
+          mkdir -p "${RUNNER_TEMP}/hugo-bin"
+          tar -xzf "${RUNNER_TEMP}/hugo.tar.gz" -C "${RUNNER_TEMP}/hugo-bin"
+          echo "${RUNNER_TEMP}/hugo-bin" >> "$GITHUB_PATH"
+      - name: Build testbed
+        env:
+          PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: hugo --gc --minify --panicOnWarning --config hugo.toml,hugo.preview.toml --baseURL "${PAGES_BASE_URL}/"
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish testbed
+        id: deployment
+        uses: actions/deploy-pages@v5
